@@ -3,5 +3,11 @@
 </template>
 
 <script>
-
+export default {
+  head() {
+        return {
+            title: "Dad Jokes Central | About"
+        }
+    },
+}
 </script>
