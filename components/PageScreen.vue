@@ -13,10 +13,12 @@ export default {
         title: {
             type: String,
             required: true,
+            default: "MISSING TITLE PROP" // Defaults to show if missing prop
         },
         desc: {
             type: String,
             required: true,
+            default: "MISSING DESC PROP" // Defaults to show if missing prop
         }
     }
 }
