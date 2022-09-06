@@ -1,4 +1,4 @@
-# dad-jokes-nuxtjs
+# Playground NuxtJS
 
 ## Build Setup
 
